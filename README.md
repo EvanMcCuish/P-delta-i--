@@ -1,4 +1,3 @@
-# P-i-
 Description and code for P(∆i) 
 Explanation of dataset and code for the paper entitled “Describing changes in features of psychopathy via an individual-level measure of P(Δ)”
 https://doi.org/10.1007/s10940-020-09472-8 ; https://rdcu.be/b6TRj 
